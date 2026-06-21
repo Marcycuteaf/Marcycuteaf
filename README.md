@@ -4,9 +4,21 @@
 
 ### After Effects CEP Extension Developer
 
-**Vector tools · Motion-graphics workflows · Panel UI design**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,bash,python&theme=dark&perline=5" alt="Languages" />
+</p>
+<p align="center">
+  <img height="44" src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="After Effects" title="After Effects" />&nbsp;&nbsp;
+  <img height="44" src="https://cdn.simpleicons.org/adobepremierepro/9999FF" alt="Premiere Pro" title="Premiere Pro" />&nbsp;&nbsp;
+  <img height="44" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" title="Photoshop" />&nbsp;&nbsp;
+  <img height="44" src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Illustrator" title="Illustrator" />
+</p>
+
+<br/>
 
 I build **Adobe After Effects** extensions that help creators work faster — from QR & barcode generators to PNG sequence browsers and alignment toolkits. All projects ship as signed **`.zxp`** installers for one-click setup.
+
+**Vector tools · Motion-graphics workflows · Panel UI design**
 
 <br/>
 
@@ -79,20 +91,6 @@ ExtendScript utilities for After Effects workflows
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-![After Effects](https://img.shields.io/badge/After_Effects-2024%2F2025-ff4757?style=flat-square&logo=adobe&logoColor=white&labelColor=8b0000)
-![CEP](https://img.shields.io/badge/CEP-Common_Extensibility-dc143c?style=flat-square&labelColor=4a0000)
-![ExtendScript](https://img.shields.io/badge/ExtendScript-JSX-ff6b81?style=flat-square&logo=javascript&logoColor=white&labelColor=8b0000)
-![HTML5](https://img.shields.io/badge/Panel-HTML%2FCSS%2FJS-dc143c?style=flat-square&logo=html5&logoColor=white&labelColor=4a0000)
-![Vector](https://img.shields.io/badge/Output-Shape_Layer-ff4757?style=flat-square&labelColor=8b0000)
-
-</div>
-
----
-
 ## GitHub Activity
 
 <div align="center">
@@ -102,7 +100,7 @@ ExtendScript utilities for After Effects workflows
   <tr>
     <td align="center" valign="top">
       <img width="400" alt="GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=ff4757&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=400" />
+        src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&hide_rank=true&custom_title=GitHub%20Stats&title_color=ff4757&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=400" />
     </td>
     <td align="center" valign="top">
       <img width="400" alt="Most Used Languages"
