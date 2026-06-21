@@ -93,20 +93,12 @@ ExtendScript utilities for After Effects workflows
 
 ---
 
-## GitHub Activity
-
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&hide_rank=true&include_all_commits=true&title_color=ff4757&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=340" alt="GitHub Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcycuteaf&layout=compact&langs_count=4&title_color=ff4757&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=320" alt="Top Languages" />
+[![Repos](https://img.shields.io/badge/Public%20Repos-4-21262d?style=flat-square&logo=github&logoColor=ff4757)](https://github.com/Marcycuteaf?tab=repositories)
+[![Commits](https://img.shields.io/github/commit-activity/t/Marcycuteaf/BEN-CODE?label=Recent%20Commits&color=dc143c&labelColor=21262d&style=flat-square&logo=git)](https://github.com/Marcycuteaf)
 
-<br/>
-
-<img width="520" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&hide_border=true&background=0d1117&ring=dc143c&fire=ff4757&currStreakLabel=ff4757&sideLabels=8b949e&dates=8b949e&sideNums=ff4757" alt="Contribution Streak" />
-
-<br/>
-
-**Profile Views**
+<br/><br/>
 
 <img src="https://mayu.due.moe/get/@Marcycuteaf?theme=asoul" alt="Profile views" />
 
