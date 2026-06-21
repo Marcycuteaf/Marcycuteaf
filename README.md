@@ -102,17 +102,17 @@ ExtendScript utilities for After Effects workflows
   <tr>
     <td align="center" valign="top">
       <img width="400" alt="GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=ff4757&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&border_radius=10&hide_border=false&card_width=400" />
+        src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=ff4757&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=400" />
     </td>
     <td align="center" valign="top">
       <img width="400" alt="Most Used Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcycuteaf&layout=compact&langs_count=5&custom_title=Top%20Languages&title_color=ff4757&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&border_radius=10&hide_border=false&card_width=400" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcycuteaf&layout=compact&langs_count=5&custom_title=Top%20Languages&title_color=ff4757&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=400" />
     </td>
   </tr>
 </table>
 
 <img width="820" alt="Contribution Streak"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&hide_border=false&background=0d1117&stroke=21262d&ring=dc143c&fire=ff4757&currStreakLabel=ff4757&sideLabels=8b949e&dates=8b949e&sideNums=ff4757&border_radius=10" />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&hide_border=true&background=0d1117&ring=dc143c&fire=ff4757&currStreakLabel=ff4757&sideLabels=8b949e&dates=8b949e&sideNums=ff4757" />
 
 <br/>
 
