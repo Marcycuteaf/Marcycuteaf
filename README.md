@@ -93,17 +93,29 @@ ExtendScript utilities for After Effects workflows
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&theme=radical&hide_border=true&bg_color=1a0000&title_color=ff4757&icon_color=dc143c&text_color=ffffff" alt="GitHub Stats" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcycuteaf&layout=compact&theme=radical&hide_border=true&bg_color=1a0000&title_color=ff4757&text_color=ffffff" alt="Top Languages" />
+<!-- Stats row: equal height, unified dark theme -->
+<table>
+<tr>
+<td valign="top" align="center">
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&hide_rank=true&include_all_commits=true&count_private=false&title_color=ff4757&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&border_radius=12&hide_border=false" alt="GitHub Stats" />
+</td>
+<td valign="top" align="center">
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcycuteaf&layout=donut&langs_count=5&title_color=ff4757&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&border_radius=12&hide_border=false&locale=en" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&theme=radical&hide_border=true&background=1a0000&ring=dc143c&fire=ff4757&currStreakLabel=ff6b81" alt="Streak" width="70%" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&hide_border=false&background=0d1117&stroke=21262d&ring=dc143c&fire=ff4757&currStreakLabel=ff4757&sideLabels=c9d1d9&dates=8b949e&sideNums=ff4757&border_radius=12" alt="Contribution Streak" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Marcycuteaf&bg_color=0d1117&color=dc143c&line=ff4757&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=ff4757&ring=21262d" alt="Contribution Graph" />
 
 <br/><br/>
 
