@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Marcycuteaf/Marcycuteaf/main/assets/banner-snow.gif" width="100%" alt="Landscape banner with snow" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:dc143c,100:ff4757&height=140&section=header&text=Marcy%20Zhao&fontSize=44&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="assets/banner-snow-v2.gif" width="100%" alt="Banner with snow" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:dc143c,100:ff4757&height=140&section=header&text=Marcy%20Zhao&fontSize=44&fontColor=ffffff&animation=twinkling" width="100%" />
 
 ### After Effects CEP Extension Developer
 
