@@ -103,6 +103,12 @@ ExtendScript 腳本集合
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="Streak" width="70%" />
 
+<br/><br/>
+
+**訪問人次**
+
+<img src="https://count.getloli.org/get/@Marcycuteaf?theme=moe" alt="訪問人次" />
+
 </div>
 
 ---
