@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-snow-v2.gif" width="100%" alt="Banner with snow" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:dc143c,100:ff4757&height=140&section=header&text=Marcy%20Zhao&fontSize=44&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="assets/banner-snow-v3.gif" width="100%" alt="Banner with snow" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=140&section=header&text=Marcy%20Zhao&fontSize=44&fontColor=ffffff&animation=twinkling" width="100%" />
 
 ### After Effects CEP Extension Developer
 
@@ -119,6 +119,6 @@ ExtendScript utilities for After Effects workflows
 
 *All CEP extensions include a `.zxp` release — install with [ZXP/UXP Installer](https://aescripts.com/learn/zxp-installer/) and restart After Effects.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:dc143c,100:ff4757&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=100&section=footer" width="100%" />
 
 </div>
