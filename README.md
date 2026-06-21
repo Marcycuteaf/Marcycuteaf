@@ -97,27 +97,14 @@ ExtendScript utilities for After Effects workflows
 
 <div align="center">
 
-<!-- Stats row: equal height, unified dark theme -->
-<table>
-<tr>
-<td valign="top" align="center">
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&hide_rank=true&include_all_commits=true&count_private=false&title_color=ff4757&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&border_radius=12&hide_border=false" alt="GitHub Stats" />
-</td>
-<td valign="top" align="center">
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcycuteaf&layout=donut&langs_count=5&title_color=ff4757&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&border_radius=12&hide_border=false&locale=en" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&hide_rank=true&include_all_commits=true&title_color=ff4757&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=340" alt="GitHub Stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcycuteaf&layout=compact&langs_count=4&title_color=ff4757&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=320" alt="Top Languages" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&hide_border=false&background=0d1117&stroke=21262d&ring=dc143c&fire=ff4757&currStreakLabel=ff4757&sideLabels=c9d1d9&dates=8b949e&sideNums=ff4757&border_radius=12" alt="Contribution Streak" />
+<img width="520" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&hide_border=true&background=0d1117&ring=dc143c&fire=ff4757&currStreakLabel=ff4757&sideLabels=8b949e&dates=8b949e&sideNums=ff4757" alt="Contribution Streak" />
 
 <br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Marcycuteaf&bg_color=0d1117&color=dc143c&line=ff4757&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=ff4757&ring=21262d" alt="Contribution Graph" />
-
-<br/><br/>
 
 **Profile Views**
 
