@@ -1,22 +1,26 @@
 <div align="center">
 
-<!-- 頂部橫幅 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Marcy%20Zhao&fontSize=42&fontColor=e94560&animation=twinkling" width="100%" />
+<img src="https://i.pinimg.com/1200x/bb/f8/68/bbf868dc073fe05bffdca5a4f044f887.jpg" width="100%" alt="Banner" />
 
-**After Effects CEP 擴充功能開發者**  
-向量工具 · 動效工作流 · 繁體中文介面
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:dc143c,100:ff4757&height=140&section=header&text=Marcy%20Zhao&fontSize=44&fontColor=ffffff&animation=twinkling" width="100%" />
+
+### After Effects CEP Extension Developer
+
+**Vector tools · Motion-graphics workflows · Panel UI design**
+
+I build **Adobe After Effects** extensions that help creators work faster — from QR & barcode generators to PNG sequence browsers and alignment toolkits. All projects ship as signed **`.zxp`** installers for one-click setup.
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Marcycuteaf?style=for-the-badge&logo=github&color=24292f)](https://github.com/Marcycuteaf?tab=followers)
-[![Repos](https://img.shields.io/badge/Public%20Repos-4-0f3460?style=for-the-badge&logo=github)](https://github.com/Marcycuteaf?tab=repositories)
-[![After Effects](https://img.shields.io/badge/After%20Effects-CEP%20Extensions-e94560?style=for-the-badge&logo=adobe)](https://github.com/Marcycuteaf/BEN-CODE)
+[![GitHub followers](https://img.shields.io/github/followers/Marcycuteaf?style=for-the-badge&logo=github&color=dc143c&labelColor=4a0000)](https://github.com/Marcycuteaf?tab=followers)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-4-ff4757?style=for-the-badge&logo=github&labelColor=8b0000)](https://github.com/Marcycuteaf?tab=repositories)
+[![After Effects](https://img.shields.io/badge/After%20Effects-CEP%20Extensions-dc143c?style=for-the-badge&logo=adobe&labelColor=4a0000)](https://github.com/Marcycuteaf/BEN-CODE)
 
 </div>
 
 ---
 
-## 精選專案
+## Featured Projects
 
 <table>
 <tr>
@@ -24,26 +28,26 @@
 
 ### [BEN CODE](https://github.com/Marcycuteaf/BEN-CODE)
 
-QR Code & 條碼**向量**產生器  
-圓角 · 定位點樣式 · Logo 預留 · EAN-13 / UPC-A
+Vector **QR Code & Barcode** generator for AE  
+Rounded corners · Custom finder eyes · Logo slot · EAN-13 / UPC-A
 
 <br/>
 
-[![Release](https://img.shields.io/github/v/release/Marcycuteaf/BEN-CODE?style=flat-square&label=Release&color=e94560)](https://github.com/Marcycuteaf/BEN-CODE/releases/latest)
-[![Download ZXP](https://img.shields.io/badge/Download-ZXP-0f3460?style=flat-square)](https://github.com/Marcycuteaf/BEN-CODE/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Marcycuteaf/BEN-CODE?style=flat-square&label=Release&color=dc143c&labelColor=4a0000)](https://github.com/Marcycuteaf/BEN-CODE/releases/latest)
+[![Download ZXP](https://img.shields.io/badge/Download-ZXP-ff4757?style=flat-square&labelColor=8b0000)](https://github.com/Marcycuteaf/BEN-CODE/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
 ### [MARCY Toolkit](https://github.com/Marcycuteaf/ae-marcy-toolkit)
 
-AE 效率工具箱  
-文字 · 對齊 · 錨點 · Null · 自動裁切
+AE productivity panel  
+Text · Align · Anchor · Null · Auto-crop
 
 <br/>
 
-[![Release](https://img.shields.io/github/v/release/Marcycuteaf/ae-marcy-toolkit?style=flat-square&label=Release&color=e94560)](https://github.com/Marcycuteaf/ae-marcy-toolkit/releases/latest)
-[![Download ZXP](https://img.shields.io/badge/Download-ZXP-0f3460?style=flat-square)](https://github.com/Marcycuteaf/ae-marcy-toolkit/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Marcycuteaf/ae-marcy-toolkit?style=flat-square&label=Release&color=dc143c&labelColor=4a0000)](https://github.com/Marcycuteaf/ae-marcy-toolkit/releases/latest)
+[![Download ZXP](https://img.shields.io/badge/Download-ZXP-ff4757?style=flat-square&labelColor=8b0000)](https://github.com/Marcycuteaf/ae-marcy-toolkit/releases/latest)
 
 </td>
 </tr>
@@ -52,24 +56,24 @@ AE 效率工具箱
 
 ### [PNG Sequence Preview](https://github.com/Marcycuteaf/ae-png-sequence-preview)
 
-PNG 序列預覽 & 匯入  
-多資料夾 · 自動播放 · 自動 Bin · 主題
+Browse, preview & import PNG sequences  
+Multi-folder · Auto-play · Auto-bins · 4 languages
 
 <br/>
 
-[![Release](https://img.shields.io/github/v/release/Marcycuteaf/ae-png-sequence-preview?style=flat-square&label=Release&color=e94560)](https://github.com/Marcycuteaf/ae-png-sequence-preview/releases/latest)
-[![Download ZXP](https://img.shields.io/badge/Download-ZXP-0f3460?style=flat-square)](https://github.com/Marcycuteaf/ae-png-sequence-preview/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Marcycuteaf/ae-png-sequence-preview?style=flat-square&label=Release&color=dc143c&labelColor=4a0000)](https://github.com/Marcycuteaf/ae-png-sequence-preview/releases/latest)
+[![Download ZXP](https://img.shields.io/badge/Download-ZXP-ff4757?style=flat-square&labelColor=8b0000)](https://github.com/Marcycuteaf/ae-png-sequence-preview/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Ben Script](https://github.com/Marcycuteaf/ben-script)
 
-ExtendScript 腳本集合
+ExtendScript utilities for After Effects workflows
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/View-Repository-24292f?style=flat-square&logo=github)](https://github.com/Marcycuteaf/ben-script)
+[![Repo](https://img.shields.io/badge/View-Repository-dc143c?style=flat-square&logo=github&labelColor=4a0000)](https://github.com/Marcycuteaf/ben-script)
 
 </td>
 </tr>
@@ -77,37 +81,37 @@ ExtendScript 腳本集合
 
 ---
 
-## 技術棧
+## Tech Stack
 
 <div align="center">
 
-![After Effects](https://img.shields.io/badge/After_Effects-2024%2F2025-9999FF?style=flat-square&logo=adobe&logoColor=white)
-![CEP](https://img.shields.io/badge/CEP-Common_Extensibility-5319E7?style=flat-square)
-![ExtendScript](https://img.shields.io/badge/ExtendScript-JSX-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/Panel-HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![QR Code](https://img.shields.io/badge/QR_&_Barcode-Vector-0f3460?style=flat-square)
+![After Effects](https://img.shields.io/badge/After_Effects-2024%2F2025-ff4757?style=flat-square&logo=adobe&logoColor=white&labelColor=8b0000)
+![CEP](https://img.shields.io/badge/CEP-Common_Extensibility-dc143c?style=flat-square&labelColor=4a0000)
+![ExtendScript](https://img.shields.io/badge/ExtendScript-JSX-ff6b81?style=flat-square&logo=javascript&logoColor=white&labelColor=8b0000)
+![HTML5](https://img.shields.io/badge/Panel-HTML%2FCSS%2FJS-dc143c?style=flat-square&logo=html5&logoColor=white&labelColor=4a0000)
+![Vector](https://img.shields.io/badge/Output-Shape_Layer-ff4757?style=flat-square&labelColor=8b0000)
 
 </div>
 
 ---
 
-## GitHub 統計
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=0f3460" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcycuteaf&show_icons=true&theme=radical&hide_border=true&bg_color=1a0000&title_color=ff4757&icon_color=dc143c&text_color=ffffff" alt="GitHub Stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcycuteaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcycuteaf&layout=compact&theme=radical&hide_border=true&bg_color=1a0000&title_color=ff4757&text_color=ffffff" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="Streak" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcycuteaf&theme=radical&hide_border=true&background=1a0000&ring=dc143c&fire=ff4757&currStreakLabel=ff6b81" alt="Streak" width="70%" />
 
 <br/><br/>
 
-**訪問人次**
+**Profile Views**
 
-<img src="https://mayu.due.moe/get/@Marcycuteaf?theme=asoul" alt="訪問人次" />
+<img src="https://mayu.due.moe/get/@Marcycuteaf?theme=asoul" alt="Profile views" />
 
 </div>
 
@@ -115,8 +119,8 @@ ExtendScript 腳本集合
 
 <div align="center">
 
-*所有 CEP 擴充功能均提供 `.zxp` 一鍵安裝，詳見各專案 Release 頁面。*
+*All CEP extensions include a `.zxp` release — install with [ZXP/UXP Installer](https://aescripts.com/learn/zxp-installer/) and restart After Effects.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:dc143c,100:ff4757&height=100&section=footer" width="100%" />
 
 </div>
