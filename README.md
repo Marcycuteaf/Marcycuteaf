@@ -8,10 +8,7 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,bash,python&theme=dark&perline=5" alt="Languages" />
 </p>
 <p align="center">
-  <img height="44" src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="After Effects" title="After Effects" />&nbsp;&nbsp;
-  <img height="44" src="https://cdn.simpleicons.org/adobepremierepro/9999FF" alt="Premiere Pro" title="Premiere Pro" />&nbsp;&nbsp;
-  <img height="44" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" title="Photoshop" />&nbsp;&nbsp;
-  <img height="44" src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Illustrator" title="Illustrator" />
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ai&theme=dark&perline=4" alt="Adobe Creative Cloud" />
 </p>
 
 <br/>
